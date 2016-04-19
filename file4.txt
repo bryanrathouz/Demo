@@ -1,1 +1,3 @@
 Added in version 2
+
+An additional change.
